@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/davis/Downloads/PickView-master1/app/build/intermediates/res/merged/debug/anim/slide_in_bottom.xml",
+        "source": "/Users/davis/Downloads/PickView-master1/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/davis/Downloads/PickView-master1/app/build/intermediates/res/merged/debug/anim/slide_out_bottom.xml",
+        "source": "/Users/davis/Downloads/PickView-master1/app/src/main/res/anim/slide_out_bottom.xml"
+    }
+]
